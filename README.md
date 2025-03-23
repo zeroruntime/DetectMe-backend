@@ -26,8 +26,8 @@ This is a Flask-based API for detecting plant diseases from images using a deep 
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/DetectMe-Backend.git
-cd DetectMe-Backend
+git clone https://github.com/yourusername/DetectMe-backend.git
+cd DetectMe-backend
 ```
 
 ### 2️⃣ Create a Virtual Environment  
