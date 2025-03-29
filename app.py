@@ -38,7 +38,7 @@ def preprocess_image(img):
     img_array = np.expand_dims(img_array, axis=0) 
     img_array = img_array / 255.0 
 
-    print(f"✅ Image preprocessed: shape={img_array.shape}") 
+    print(f"Image preprocessed: shape={img_array.shape}") 
     return img_array
 
 @app.route('/predict', methods=['POST'])
